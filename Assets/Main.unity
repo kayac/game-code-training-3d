@@ -520,7 +520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47caa1b557af2498392fbdc620d89f12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  applicationScript: {fileID: 11500000, guid: 652fdec2d111d47ee9a0e64b919e92a0, type: 3}
+  applicationScript: {fileID: 11500000, guid: 658e80641829b4aa29d64de7ef39bbc3, type: 3}
   soundSynthesizer: {fileID: 1482234705}
   inputHandler: {fileID: 1772632216}
   mainCamera: {fileID: 963194227}
